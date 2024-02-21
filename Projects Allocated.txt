@@ -1,0 +1,38 @@
+Projects Allocated
+Complete tasks quickly using the source code as a reference.
+
+BASIC Project:
+
+Task 1 Simple Task List
+
+Description : Develop a Python task management app for adding, removing, listing, prioritizing, and receiving task recommendations based on task descriptions.
+
+
+
+Task 2 XGBoost Home Price Prediction
+
+Description: Predict home prices using XGBoost with factors like income, schools, hospitals, and crime rates.
+
+
+Task 3 MNIST Digit Classification
+
+Description: Begin your deep learning journey with the beginner-friendly MNIST dataset, focusing on handwritten digit classification.
+
+
+INTERMEDIATE Project:
+
+Task 1 Blood Donation Forecast
+
+Description: Use machine learning to predict future blood donations, addressing a critical issue in the healthcare system.
+
+
+Task 2 Black Friday Sales Prediction
+
+Description: Varying from emails to social media posts, 80 percent of extant text data is not structured. Text mining is a way to extract valuable insights from this type of raw data. The method of text mining converts unstructured text data into a structured format, promoting the identification of important patterns and associations within data sets.
+
+
+ADVANCED Project:
+
+Final Task Build a Music Recommendation System
+
+Description : Utilize machine learning algorithms to create a personalized music recommendation system that suggests tracks, albums, and playlists based on user preferences and listening history, enhancing the music discovery experience.

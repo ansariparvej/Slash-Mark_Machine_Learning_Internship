@@ -1,10 +1,10 @@
 # SLASH MARK: Machine Learning Virtual Internship
 
-# Information Related to Completed Tasks:
+## Information Related to Completed Tasks:
 
-# 1. Basic Project:
+## 1. Basic Project:
 
-# Task_1: Simple Task List
+## Task_1: Simple Task List
 
 ### Description : Develop a Python task management app for adding, removing, listing, prioritizing, and receiving task recommendations based on task descriptions.
 
@@ -12,7 +12,7 @@
 
 - Solution Link: https://github.com/ansariparvej/SlashMark_Machine_Learning_Virtual_Internship/tree/main/Basic%20Project/Task_1%3A%20Simple%20Task%20List
 
-# Task_2: XGBoost Home Price Prediction
+## Task_2: XGBoost Home Price Prediction
 
 ### Description: Predict home prices using XGBoost with factors like income, schools, hospitals, and crime rates.
 
@@ -20,7 +20,7 @@
 
 - Solution Link: https://github.com/ansariparvej/SlashMark_Machine_Learning_Virtual_Internship/tree/main/Basic%20Project/Task_2%3A%20XGBoost%20Home%20Price%20Prediction
 
-# Task_3: MNIST Digit Classification
+## Task_3: MNIST Digit Classification
 
 ### Description: Begin your deep learning journey with the beginner-friendly MNIST dataset, focusing on handwritten digit classification.
 
@@ -29,9 +29,9 @@
 - Solution Link: https://github.com/ansariparvej/SlashMark_Machine_Learning_Virtual_Internship/tree/main/Basic%20Project/Task_3%3A%20MNIST%20Digit%20Classification
 
 -------------------------------------------------------------------------------------------
-# 2. Intermediate Project:
+## 2. Intermediate Project:
 
-# Task_1: Blood Donation Forecast
+## Task_1: Blood Donation Forecast
 
 ### Description: Use machine learning to predict future blood donations, addressing a critical issue in the healthcare system.
 
@@ -39,18 +39,18 @@
 
 - Solution Link: https://github.com/ansariparvej/SlashMark_Machine_Learning_Virtual_Internship/tree/main/Intermediate%20Project/Task_1%3A%20Blood%20Donation%20Forecast
 
-# Task_2: Black Friday Sales Prediction
+## Task_2: Black Friday Sales Prediction
 
 ### Description: Varying from emails to social media posts, 80 percent of extant text data is not structured. Text mining is a way to extract valuable insights from this type of raw data. The method of text mining converts unstructured text data into a structured format, promoting the identification of important patterns and associations within data sets.
 
-## Problem Solution:
+### Problem Solution:
 
 - Solution Link: https://github.com/ansariparvej/SlashMark_Machine_Learning_Virtual_Internship/tree/main/Intermediate%20Project/Task_2%3A%20Black%20Friday%20Sales%20Prediction
 
 -------------------------------------------------------------------------------------------
-# 3. Advanced Project:
+## 3. Advanced Project:
 
-# Final Task: Build a Music Recommendation System
+## Final Task: Build a Music Recommendation System
 
 ### Description : Utilize machine learning algorithms to create a personalized music recommendation system that suggests tracks, albums, and playlists based on user preferences and listening history, enhancing the music discovery experience.
 
